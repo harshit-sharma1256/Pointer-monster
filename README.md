@@ -3,8 +3,8 @@
 Pointer-Monster is a playful animation created using HTML, CSS, and JavaScript.
 
 ## Preview
-[![Video Demo](screen-capture.webm)](screen-capture.webm)
-![Pointer-Monster Preview](preview.gif)
+[Demo Video](screen-capture.webm)
+
 
 ## Usage
 
