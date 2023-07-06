@@ -28,8 +28,6 @@ You can customize the appearance and behavior of the Pointer-Monster animation b
 
 ## Credits
 
-The Pointer-Monster animation was created by [Your Name](https://github.com/your-username).
+The Pointer-Monster animation was created by [Harshit Sharma](https://github.com/harshit-sharma1256).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
