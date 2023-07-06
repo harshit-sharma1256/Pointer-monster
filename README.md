@@ -7,8 +7,8 @@ Pointer-Monster is a playful animation created using HTML, CSS, and JavaScript.
 
 
 ## Usage
-
-Open the `index.html` file in a web browser to view the Pointer-Monster animation. Move your mouse around the screen to interact with the animation.
+1. Clone the repository: `git clone https://github.com/harshit-sharma1256/Pointer-monster.git`
+2. Open the `index.html` file in a web browser to view the Pointer-Monster animation. Move your mouse around the screen to interact with the animation.
 
 ## Dependencies
 
